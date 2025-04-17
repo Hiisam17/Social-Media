@@ -1,0 +1,9 @@
+module.exports = {
+  development: {
+    username: "app_user",
+    password: "secure_password",
+    database: "social_media",
+    host: "127.0.0.1",
+    dialect: "postgres",
+  },
+};
